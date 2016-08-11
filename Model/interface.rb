@@ -2,7 +2,7 @@ class Interface
 
   def initialize()
 
-    @name = ""
+    @name = ".."
     @mac_adress = "00:00:00:00:00"
     @ip_adress = "0.0.0.0"
 
