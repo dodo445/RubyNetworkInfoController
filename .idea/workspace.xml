@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca8b087a-2f01-46bd-8907-6812d3078a30" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/RubyNetworkInfoController.iml" afterPath="$PROJECT_DIR$/.idea/RubyNetworkInfoController.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Controller/main_worker.rb" afterPath="$PROJECT_DIR$/Controller/main_worker.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Model/interface.rb" afterPath="$PROJECT_DIR$/Model/interface.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/View/homepage.rb" afterPath="$PROJECT_DIR$/View/homepage.rb" />
     </list>
     <ignored path="RubyNetworkInfoController.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -399,12 +395,20 @@
       <updated>1470842610806</updated>
       <workItem from="1470842613482" duration="6014000" />
       <workItem from="1470906399767" duration="8057000" />
-      <workItem from="1470945832901" duration="3810000" />
+      <workItem from="1470945832901" duration="3893000" />
     </task>
+    <task id="LOCAL-00001" summary="Added Mac change feature">
+      <created>1470949708027</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1470949708027</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17881000" />
+    <option name="totallyTimeSpent" value="17964000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
@@ -439,6 +443,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Mac change feature" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Mac change feature" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
